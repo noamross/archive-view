@@ -1,5 +1,5 @@
 {
-  "name": "archive-view",
+  "name": "archive-view2",
   "version": "0.65.1",
   "description": "View the files and folders inside archive files",
   "main": "./lib/archive-editor",
